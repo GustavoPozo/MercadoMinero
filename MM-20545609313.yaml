@@ -1,0 +1,21 @@
+organization_ruc: 20610408436
+service:
+  name: Mercado minero
+  resume: Gestión de perfil corporativo, catálogo y registro de guías de remisión electrónicas para trazabilidad.
+  code: MM-20545609313
+  show_enterprise_logo: true
+  illustration: ak-expansion
+  enterprise_ruc: 20545609313
+  user_tags:
+    - Gerencia
+    - Ejecutivo comercial
+    - Marketing
+    - Logística
+    - Soporte técnico
+  modules:
+    - enterprise_settings
+    - materials
+    - dispatch_guides
+invitation:
+  from_email: wenceslao.paez@mina365.com
+  to_email: gustavo.pozo@mina365.com
